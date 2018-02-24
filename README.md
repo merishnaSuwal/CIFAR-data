@@ -7,4 +7,4 @@ Manually creating a Recurrent Neural Network using TensorFlow for a network with
 
 > TensorFlow API RNN
 
-Using the tf.nn API to create Recurrent Neural Network for a Time series problem.
+Using the tf.rnn API to create Recurrent Neural Network for a Time series problem.
