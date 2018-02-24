@@ -1,2 +1,2 @@
-# ManualRNN-TensorFlow
-Manually building a Recurrent Neural Network using TensorFlow.
+# RNN-TensorFlow
+Building a Recurrent Neural Network using TensorFlow.
